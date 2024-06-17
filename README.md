@@ -24,9 +24,8 @@
 
 
 ## ĐỒ ÁN CUỐI KÌ
-- Front-end: HTML, CSS, Javascript.
+- Front-end: HTML, CSS, Javascript, Bootstrap.
 - Back-end: Laravel, MySQL.
-- Source Code and Installation Instructions: [Source Code](https://github.com/nhquynhhh/IS207.O11)
 <a href="https://ibb.co/X7MvN7N"><img src="https://i.ibb.co/y67bG6G/demo.png" alt="demo" border="0" /></a>
 
 
