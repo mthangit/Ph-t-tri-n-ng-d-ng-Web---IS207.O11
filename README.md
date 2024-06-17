@@ -25,7 +25,8 @@
 
 ## ĐỒ ÁN CUỐI KÌ
 - Front-end: HTML, CSS, Javascript, Bootstrap.
-- Back-end: Laravel, MySQL.
+- Back-end: Laravel, MySQL
+
 <a href="https://ibb.co/X7MvN7N"><img src="https://i.ibb.co/y67bG6G/demo.png" alt="demo" border="0" /></a>
 
 
